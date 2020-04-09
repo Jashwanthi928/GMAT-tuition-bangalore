@@ -289,9 +289,11 @@ footer p {
 @media only screen and (max-width: 1100px) {
   .online-main-description {
     font-size: 1.5rem;
+    text-align: center;
   }
   .online-sub-description {
     font-size: 1.2rem;
+    text-align: center;
   }
   .online-img1 {
     width: 150px;
