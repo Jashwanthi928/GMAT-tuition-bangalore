@@ -24,7 +24,7 @@ body {
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
-  background-image: url(../img/jash-img-4/banner.jpg);
+  background-image: url(https://mernlmsassets.s3.ap-south-1.amazonaws.com/LP/assets/img/jash-img-4/banner.jpg);
 }
 .container {
   /* width: 1000px;
@@ -69,10 +69,10 @@ body {
   color: white;
   font-weight: 600;
   padding: 15px 32px;
-  white-space: nowrap;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  white-space: nowrap;
   font-size: 2rem;
   border-radius: 5px;
   margin: 4px 2px;
@@ -403,7 +403,7 @@ footer p {
       rgba(72, 30, 81, 0.8),
       rgba(72, 30, 81, 0.8)
     ),
-    url(../img/jash-img-4/phone-banner.png);
+    url(https://mernlmsassets.s3.ap-south-1.amazonaws.com/LP/assets/img/jash-img-4/phone-banner.png);
     background-color: #491D50;
   }
   .main-heading {
